@@ -5,7 +5,7 @@ const app = require('./app')
 const server = http.createServer(app)
 
 //route
-
+app.use('/user', require('./routers/user'));
 
 server.listen(port, () => 
     console.log(`server start on port ${port}`)

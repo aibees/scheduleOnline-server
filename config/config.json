@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "aibees",
+    "password": "qkr12wns3!",
+    "database": "scheduleOnline",
+    "host": "scheduleserver.cp0aj5nv83si.ap-northeast-2.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "aibees",
+    "password": "qkr12wns3!",
+    "database": "scheduleOnline",
+    "host": "scheduleserver.cp0aj5nv83si.ap-northeast-2.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "aibees",
+    "password": "qkr12wns3!",
+    "database": "scheduleOnline",
+    "host": "scheduleserver.cp0aj5nv83si.ap-northeast-2.rds.amazonaws.com",
+    "dialect": "mysql"
+  }
+}
